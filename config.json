@@ -1,0 +1,10 @@
+{
+  "email": "youremail@example.com",
+  "password": "yourpassword",
+  "receiver_email": "receiver@example.com",
+  "file_path": "C:\\KeyloggerLogs\\",
+  "encryption_key": "GENERATE_THIS_USING_FERNET",
+  "microphone_duration": 10,
+  "log_interval": 15,
+  "log_iterations": 3
+}
