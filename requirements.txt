@@ -1,0 +1,8 @@
+pynput
+cryptography
+sounddevice
+scipy
+opencv-python
+Pillow
+requests
+pywin32
